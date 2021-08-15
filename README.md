@@ -10,9 +10,8 @@ Cost of drive screw linear actuator is minimized using monotonicity analysis, Ge
 ## Proof:
 1. Alternative title can be explained from the problem description mentioned in report abstract.
 2. 99% accuracy can be verified from the images of results attached.
-Monotonicity: Function value = 0.3487
-GA(MATLAB): Function value = 0.3495
-Accuracy = 100 - (0.3495 - 0.3487)*100/0.3487 = 99.77%
+Monotonicity: Function value = 0.3487 and GA(MATLAB): Function value = 0.3495
+3. Accuracy = 100 - (0.3495 - 0.3487)*100/0.3487 = 99.77%
 
 
 
