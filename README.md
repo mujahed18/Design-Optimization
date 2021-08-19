@@ -1,3 +1,5 @@
+![Monotonicity Results](https://user-images.githubusercontent.com/65407334/130072301-cd653c6a-6373-4bc1-b28c-aaf8c3a7857c.JPG)
+![Genetic Algorithm Results](https://user-images.githubusercontent.com/65407334/130072440-1e7d9989-4344-4721-8275-a40f998da0c4.JPG)
 # Design Optimization
 ## Original Title:
 Drive Screw Linear Actuator
